@@ -10,7 +10,7 @@ but with more examples and some other scenarios to better understand it.
 
 - [Class Vs Struct tradeoffs and CoW performance](#class-vs-struct-tradeoff-and-cow-performance)
 
-- [Concurrency and Locking](#concurrency-and-locking)
+- [Concurrency and Locking](#concurrency-and-locking-performance)
 
 
 
